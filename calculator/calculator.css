@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+
+}
+.expression{
+font-size: 30px;
+color: white;
+font-weight: 700px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.button-size{
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 60px;
+    background-color: rgb(109, 103, 103);
+    color: white;
+    margin:5px;
+    font-size: 20px;
+    font-weight: 300px;
+    cursor: pointer;
+    
+}
+.spcolor{
+    background-color: rgb(254, 160, 10);
+}
